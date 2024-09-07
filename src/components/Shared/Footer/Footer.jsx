@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="flex justify-center items-start gap-2">
             <img className="h-8" src={logo} alt="logo" />
 
-            <h1 className="text-2xl font-bold">Organick</h1>
+            <h1 className="text-2xl font-bold">SOURNSWEET</h1>
           </div>
           <p className="text-gray-50">
             Simply dummy text of the printing and typesetting industry. Lorem
@@ -54,21 +54,21 @@ const Footer = () => {
           <ul className="flex flex-col gap-1 text-gray-50">
             <li>
               <p className="text-sm font-semibold">Email</p>
-              <span className="text-sm">organic@gmail.com</span>
+              <span className="text-sm">sournsweetorganicfoodspvtltd@gmail.com</span>
             </li>
             <li>
               <p className="text-sm font-semibold ">Phone</p>
-              <span className="text-sm">+880993749</span>
+              <span className="text-sm">+917678613513</span>
             </li>
             <li>
               <p className="text-sm font-semibold ">Address</p>
-              <span className="text-sm">88 road, borklyn street, USA</span>
+              <span className="text-sm">1f-cs-48 Ansal Plaza, Sector-1, Vaishali, Bharat Nagar (ghaziabad), Ghaziabad, Ghaziabad, Uttar Pradesh, India, 201010.</span>
             </li>
           </ul>
         </div>
       </div>
       <div className="text-center text-sm text-gray-50 mt-8">
-        <p>Copyright &copy; Organick - 2023</p>
+        <p>Copyright &copy; SOURNSWEET - 2024</p>
       </div>
     </footer>
   );
